@@ -1,0 +1,13 @@
+name: fute
+version: 0.1.0
+
+authors:
+  - Vinh Nguyen <kurei@axcoto.com>
+
+targets:
+  fute:
+    main: src/fute.cr
+
+crystal: 0.25.1
+
+license: MIT
